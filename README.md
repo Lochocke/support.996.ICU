@@ -237,6 +237,7 @@ Supported by / 支持者:
 * Jonathan Ehrich, Microsoft
 * Jonathan Tomer, Software Engineer, Google
 * Jose Martinez, Software Engineer, Qualcomm
+* Joseph Lyu, Technical Consaultant, DXC Technology 
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
 * J.S.Patrick,Front-end developer
